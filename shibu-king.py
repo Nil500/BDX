@@ -188,7 +188,7 @@ def uaku():
 		for ub in ua:
 			ugen.append(ub)
 	except:
-		a=requests.get('https://github.com/Nil500/Approval.txt').text
+		a=requests.get('https://github.com/Nil500/Approval.txt).text
 		ua=open('.bbnew.txt','w')
 		aa=re.findall('line">(.*?)<',str(a))
 		for un in aa:
@@ -199,7 +199,7 @@ def jalan(z):
         sys.stdout.write(e)
         sys.stdout.flush()
         time.sleep(0.03)
-os.system(https://github.com/Nil500/Approval.txt")
+os.system(https://github.com/Nil500/Approval.txt)
 
 logo ="""\033[1;97m
        \033[1;32m########  ####    ###    ######## 
